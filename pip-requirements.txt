@@ -1,1 +1,1 @@
-python-telegram-bot==13.6
+aiogram==3.6.0
